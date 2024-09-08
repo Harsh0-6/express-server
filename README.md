@@ -1,3 +1,3 @@
 /*
-A simple express HTTP server using node.js.
+A simple express HTTP server in node.js.
 */
